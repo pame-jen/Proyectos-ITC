@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UMLUseCaseDiagram1">
+  <useCaseModelRootMoniker Id="3493a400-6cce-4bb6-a9be-49059f648d1d" />
+  <nestedChildShapes>
+    <actorShape Id="23e69fc7-718e-4964-bd42-6df3c1b7221e" absoluteBounds="1, 1.375, 0.5, 0.5" isReference="false" heightOffset="0">
+      <actorMoniker Id="1d66e254-5835-409f-9bbe-e03ef75e0876" LastKnownName="Alumno" />
+      <relativeChildShapes />
+    </actorShape>
+    <actorShape Id="495295c3-8026-46cb-8832-92ee3126aa6c" absoluteBounds="5.625, 1.5, 0.5, 0.5" isReference="false" heightOffset="0">
+      <actorMoniker Id="ac4356ed-e2dd-41dc-b084-b6ab41ddebac" LastKnownName="Profesor" />
+      <relativeChildShapes />
+    </actorShape>
+    <useCaseShape Id="f37fc796-fd18-4d1c-b5ac-d0bf5d151180" absoluteBounds="3.125, 1, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="492f367d-1224-4889-9b3e-479644585f01" LastKnownName="UseCase1" />
+      <relativeChildShapes />
+    </useCaseShape>
+  </nestedChildShapes>
+</useCaseDiagram>

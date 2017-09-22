@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\Tarea21082017\Tarea21082017\bin\Debug\Tarea21082017.exe.config
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\Tarea21082017\Tarea21082017\bin\Debug\Tarea21082017.exe
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\Tarea21082017\Tarea21082017\bin\Debug\Tarea21082017.pdb
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\Tarea21082017\Tarea21082017\obj\Debug\Tarea21082017.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\Tarea21082017\Tarea21082017\obj\Debug\Tarea21082017.exe
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\Tarea21082017\Tarea21082017\obj\Debug\Tarea21082017.pdb

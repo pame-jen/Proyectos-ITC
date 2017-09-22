@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="37416149-6730-465c-b9b2-ac7968efa467" name="EjemploCasosdeUsoUML" linkedPackageId="5da00e7b-1929-46a7-921c-71d26f231170" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <ownedCommentsInternal>
+    <comment Id="49de9df1-4622-4b42-8bd3-0be300f415c6">
+      <elementDefinition Id="f0a9f35b-0bd7-411f-bfa5-59350b4130a9" />
+      <body>Actor</body>
+    </comment>
+    <comment Id="4f9ff8c9-cbc2-4e95-ba7a-9649fb4f2317">
+      <elementDefinition Id="34b070e3-2f36-4087-8c99-afdbebca8822" />
+      <body>Asociación</body>
+    </comment>
+    <comment Id="0c4f2c90-f0e2-4ca4-9d67-e5b4d7f6879c">
+      <elementDefinition Id="593377d2-551b-4f8c-b3e6-ac0bfd9dd23b" />
+      <body>Actor</body>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="60720fc3-a076-45f4-afc4-652eef824264">
+      <profileInstance Id="147dccf4-179d-4147-b681-e3458839a748" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="63f8a3e1-b8a3-4c6f-bc7d-d9b8f01ff358">
+      <profileInstance Id="24ea6211-7578-4c29-9d93-fcb94ab53f9f" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <subsystem Id="07fd95b7-c6a0-4a71-854f-80c416795609" name="Sistema Cena Ahora" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="0846d563-40c9-4712-8f1a-9ded1d3b9f76" />
+      </subsystem>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="1858bfbd-1ad7-400e-8659-82e811c96d36" name="Cliente" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="50037e03-a0da-4353-99ee-b0c98ab0b6e0" />
+        <targetEnds>
+          <association Id="9cfad215-3bb0-48bd-a975-a0eb42314928" isDerived="false" sourceEndRoleName="Cliente" targetEndRoleName="Proporciona Menú" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="b54a203b-fcb9-49e7-aafe-d369689e08fa" LastKnownName="Proporciona Menú" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="69a45ed4-4a0a-4d32-bf43-31217f26c678" name="Cliente" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="44279f6f-fc69-443a-8e11-dedc77c55989" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f243e4ce-5f5a-4afd-8c67-075dafc78137" name="Proporciona Menú" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="bbc911e9-92da-432d-97f5-8a27f8348edb" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="c3808867-1408-46c8-8466-54de4b81d30d" />
+          </association>
+          <association Id="bdce9923-ccad-4630-8812-16a0be1947b1" isDerived="false" sourceEndRoleName="Cliente" targetEndRoleName="Pedir Menú" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="85f1e13b-3526-4d78-b942-48f90a083a3d" LastKnownName="Pedir Menú" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="407c1332-440c-4f85-a3f8-d3dda08a675f" name="Cliente" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="c873a673-483a-4e0f-9877-a11f66c2c417" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="40f1e2a3-cc6d-493b-b71a-2bf082bae68c" name="Pedir Menú" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="88dabaeb-3d9a-468f-8d0f-a782b2fe9f3a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="c8483673-c28c-46d9-918e-0be664ca6e42" />
+          </association>
+          <association Id="55803bef-d1f5-4b4d-a59e-e0117cdc7723" isDerived="false" sourceEndRoleName="Cliente" targetEndRoleName="Entregar Menú" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="27b73e79-1ece-4bc7-a22e-8727f350560c" LastKnownName="Entregar Menú" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="af513d0b-b088-4690-8d94-8eb0e954d95b" name="Cliente" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="f07ae9cf-c45a-4db6-826d-c364f42e40a7" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="8d776531-2082-4c20-be7b-3b1ce2b28c0a" name="Entregar Menú" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="19d0e029-96f4-46d9-9525-4f056843b733" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="74f91795-cc00-43dd-acda-5a8e64e82563" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="fae86908-2b14-469f-992b-f4a4baff9295" name="Restaurant" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="a42b626b-f607-4b75-a8e1-5243edee8e10" />
+        <targetEnds>
+          <association Id="1dfba3a5-1801-4a6d-8244-f220c64805d8" isDerived="false" sourceEndRoleName="Restaurant" targetEndRoleName="Proporciona Menú" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="b54a203b-fcb9-49e7-aafe-d369689e08fa" LastKnownName="Proporciona Menú" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="01ee7b09-f0ae-4d2d-9e16-95d9f6885443" name="Restaurant" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="7102f00d-9f84-4a65-9f92-91a93bc2ee6f" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="e0c1f40d-86a2-421e-824b-eefd924c8793" name="Proporciona Menú" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="66446e30-1e82-4223-b0b1-590288f87bc5" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="c2111ed1-bdbb-4e83-8528-602b231a0e39" />
+          </association>
+          <association Id="afe2a67f-9922-4f6f-b233-182ed7ac62f9" isDerived="false" sourceEndRoleName="Restaurant" targetEndRoleName="Pedir Menú" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="85f1e13b-3526-4d78-b942-48f90a083a3d" LastKnownName="Pedir Menú" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="5c33427f-b30a-4c62-97c8-23bbd5e4f664" name="Restaurant" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="7f960067-212d-401e-8e57-8ae9ab04099a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="ef4a5469-4c09-4676-b7ab-ad324ad42f57" name="Pedir Menú" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="065acf5e-4121-41fe-9bc5-83726facada3" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="4534ca8b-c22d-44db-8cd3-5e3fb59e467d" />
+          </association>
+          <association Id="70001765-2b8f-4e89-9a35-ed8ca5aec7cc" isDerived="false" sourceEndRoleName="Restaurant" targetEndRoleName="Entregar Menú" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="27b73e79-1ece-4bc7-a22e-8727f350560c" LastKnownName="Entregar Menú" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="adeb7300-02cf-4ffd-a6a5-b903c2d84c36" name="Restaurant" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="e3860f07-3508-45bd-bd0e-a80542e41a49" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="d134fb31-b56d-4e2c-96fe-d164bd7f5245" name="Entregar Menú" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="321cc8c7-2c48-4b1c-86d6-0f999fa878c7" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="b78183d7-3d4c-497c-bb66-ec5fd02d1d0d" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <packageHasNamedElement>
+      <useCase Id="b54a203b-fcb9-49e7-aafe-d369689e08fa" name="Proporciona Menú" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="f290b03c-4b51-4f63-9680-f58fdd76299c" />
+        <subjects>
+          <subsystemMoniker Id="07fd95b7-c6a0-4a71-854f-80c416795609" LastKnownName="Sistema Cena Ahora" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase Id="85f1e13b-3526-4d78-b942-48f90a083a3d" name="Pedir Menú" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="faf60d85-ec66-4906-bdaa-bbf42c6594b1" />
+        <subjects>
+          <subsystemMoniker Id="07fd95b7-c6a0-4a71-854f-80c416795609" LastKnownName="Sistema Cena Ahora" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <useCaseModelRootHasTypes>
+      <useCase Id="27b73e79-1ece-4bc7-a22e-8727f350560c" name="Entregar Menú" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="eacec621-92bd-4fa1-8a31-f8b0a5c5059c" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="5da00e7b-1929-46a7-921c-71d26f231170" name="EjemploCasosdeUso">
+    <elementDefinition Id="fccf7a43-cf2a-4c31-a3e0-ed1015ec3368" />
+  </package>
+</useCaseModelRoot>

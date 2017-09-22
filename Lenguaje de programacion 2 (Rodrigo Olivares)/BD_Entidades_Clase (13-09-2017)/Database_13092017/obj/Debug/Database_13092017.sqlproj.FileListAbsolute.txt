@@ -1,0 +1,9 @@
+C:\ALUMNO\Documents\Nueva carpeta\13092017\Database_13092017\bin\Debug\Database_13092017.dacpac
+C:\ALUMNO\Documents\Nueva carpeta\13092017\Database_13092017\bin\Debug\Database_13092017.dll
+C:\ALUMNO\Documents\Nueva carpeta\13092017\Database_13092017\bin\Debug\Database_13092017.pdb
+C:\ALUMNO\Documents\Nueva carpeta\13092017\Database_13092017\obj\Debug\Model.xml
+C:\ALUMNO\Documents\Nueva carpeta\13092017\Database_13092017\obj\Debug\refactor.xml
+C:\ALUMNO\Documents\Nueva carpeta\13092017\Database_13092017\obj\Debug\postdeploy.sql
+C:\ALUMNO\Documents\Nueva carpeta\13092017\Database_13092017\obj\Debug\predeploy.sql
+C:\ALUMNO\Documents\Nueva carpeta\13092017\Database_13092017\obj\Debug\Database_13092017.dll
+C:\ALUMNO\Documents\Nueva carpeta\13092017\Database_13092017\obj\Debug\Database_13092017.pdb

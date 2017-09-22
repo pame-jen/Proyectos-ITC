@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Registro de generación de código/transformación de texto">
+  <MessageClass Name="Message" Label="Mensaje" Option="Mostrar mensajes informativos" />
+  <MessageClass Name="Warning" Label="Advertencia" Option="Mostrar advertencias" />
+  <MessageClass Name="Error" Label="Error" Option="Mostrar errores" />
+  <MessageClass Name="Property" Label="Propiedad" Option="Mostrar metadatos" />
+  <MessageClass Name="Diagnostic" Label="Mensaje" Option="Mostrar mensajes de diagnóstico" />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="High" Text="Se inició la generación de código o la transformación de texto." />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="Diagnostic" Text="Nombre = ClassTemplate" />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="Diagnostic" Text="ProjectPath = ..\EjemploDiagramadeClasesLib\EjemploDiagramadeClasesLib.csproj" />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="Medium" Text="Enlace de plantilla de texto de EjemploDiagramadeClases: 'ClassTemplate' aplicará ClassTemplate.t4 a: 'EjemploDiagramadeClases::Persona' -  (Class), 'EjemploDiagramadeClases::PersonaNatural' -  (Class), 'EjemploDiagramadeClases::PersonaJuridica' -  (Class), 'EjemploDiagramadeClases::Direccion' -  (Class) " />
+  <Message Timestamp="2017-08-30T20:01:09" Importance="Medium" Text="'EjemploDiagramadeClases::Persona' -  (Class): correcto (archivo reemplazado) - C:\Users\andy\Desktop\Lenguaje Programacion II\EjemploDiagramadeClases\EjemploDiagramadeClasesLib\GeneratedCode\Persona.cs" />
+  <Message Timestamp="2017-08-30T20:01:10" Importance="Medium" Text="'EjemploDiagramadeClases::PersonaNatural' -  (Class): correcto (archivo reemplazado) - C:\Users\andy\Desktop\Lenguaje Programacion II\EjemploDiagramadeClases\EjemploDiagramadeClasesLib\GeneratedCode\PersonaNatural.cs" />
+  <Message Timestamp="2017-08-30T20:01:10" Importance="Medium" Text="'EjemploDiagramadeClases::PersonaJuridica' -  (Class): correcto (archivo reemplazado) - C:\Users\andy\Desktop\Lenguaje Programacion II\EjemploDiagramadeClases\EjemploDiagramadeClasesLib\GeneratedCode\PersonaJuridica.cs" />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Medium" Text="'EjemploDiagramadeClases::Direccion' -  (Class): correcto (archivo reemplazado) - C:\Users\andy\Desktop\Lenguaje Programacion II\EjemploDiagramadeClases\EjemploDiagramadeClasesLib\GeneratedCode\Direccion.cs" />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="Nombre = StructTemplate" />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="ProjectPath = ..\EjemploDiagramadeClasesLib\EjemploDiagramadeClasesLib.csproj" />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Medium" Text="Enlace de plantilla de texto de EjemploDiagramadeClases: 'StructTemplate' aplicará StructTemplate.t4 a: 'EjemploDiagramadeClases::Persona' -  (Class), 'EjemploDiagramadeClases::PersonaNatural' -  (Class), 'EjemploDiagramadeClases::PersonaJuridica' -  (Class), 'EjemploDiagramadeClases::Direccion' -  (Class) " />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="'EjemploDiagramadeClases::Persona' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="'EjemploDiagramadeClases::PersonaNatural' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="'EjemploDiagramadeClases::PersonaJuridica' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-08-30T20:01:11" Importance="Diagnostic" Text="'EjemploDiagramadeClases::Direccion' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-08-30T20:01:12" Importance="Diagnostic" Text="La selección incluía 3 elementos que no estaban enlazados a una plantilla." />
+  <Message Timestamp="2017-08-30T20:01:12" Importance="Diagnostic" Text="'78033ce1-dd96-415a-af2c-8942fdacb37d' -  (Generalization): sin plantilla enlazada." />
+  <Message Timestamp="2017-08-30T20:01:12" Importance="Diagnostic" Text="'f9bcbe5e-2258-4afa-9c9f-9ae56784f9a0' -  (Generalization): sin plantilla enlazada." />
+  <Message Timestamp="2017-08-30T20:01:12" Importance="Diagnostic" Text="'EjemploDiagramadeClases::' -  (Association): sin plantilla enlazada." />
+  <Message Timestamp="2017-08-30T20:01:12" Importance="High" Text="Generación de código completa. Errores: 0. Advertencias: 0." />
+</Log>

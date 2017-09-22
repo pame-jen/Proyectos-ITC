@@ -1,0 +1,6 @@
+c:\alumno\documents\visual studio 2012\Projects\EjemploEncapsulamiento\EjemploHerencia\bin\Debug\EjemploHerencia.exe.config
+c:\alumno\documents\visual studio 2012\Projects\EjemploEncapsulamiento\EjemploHerencia\bin\Debug\EjemploHerencia.exe
+c:\alumno\documents\visual studio 2012\Projects\EjemploEncapsulamiento\EjemploHerencia\bin\Debug\EjemploHerencia.pdb
+c:\alumno\documents\visual studio 2012\Projects\EjemploEncapsulamiento\EjemploHerencia\obj\Debug\EjemploHerencia.csprojResolveAssemblyReference.cache
+c:\alumno\documents\visual studio 2012\Projects\EjemploEncapsulamiento\EjemploHerencia\obj\Debug\EjemploHerencia.exe
+c:\alumno\documents\visual studio 2012\Projects\EjemploEncapsulamiento\EjemploHerencia\obj\Debug\EjemploHerencia.pdb

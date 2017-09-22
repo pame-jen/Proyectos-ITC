@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm10="http://schemas.microsoft.com/dsltools/UseCaseModel" dslVersion="1.0.0.0" Id="c790f3f3-4742-4986-b4e0-ff873f316880" name="UMLClassDiagram1" linkedPackageId="f2aa981b-77e4-4cbf-9c23-1a966180a913" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="63c9e61e-bf0d-49a6-8027-2c63f4743f11">
+      <profileInstance Id="b3a1e35f-2592-4f7f-8fed-1ba1591b95c0" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="5c9eb84e-6327-4f89-8e5c-bfff7de3817f">
+      <profileInstance Id="2713835b-1001-452c-959e-99527f1ecdfd" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="a74b0391-966e-40a9-bf4f-3d78622cb8ae" name="Instituto Aplapac" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="4678fbe3-eb81-4917-bd17-2c101e97d3f8" />
+        <ownedAttributesInternal>
+          <property Id="9b784df1-77cf-4264-80ab-f68b5656a8ba" name="nombre" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="c013b09a-3e18-4383-9f0f-b34fa0c77e34" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="c79d6047-1e40-4aeb-a19e-a8c136e18d0e" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="6940058a-40bc-4c97-9093-aa8824596630" name="Alumnos" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="f4420cec-3d67-470b-9680-9c30e41cc8c3" />
+        <generalsInternal>
+          <generalization Id="4757d1d4-75cb-4ee2-990c-1002558a503a" isSubstitutable="false">
+            <classMoniker Id="a74b0391-966e-40a9-bf4f-3d78622cb8ae" LastKnownName="Instituto Aplapac" />
+            <elementDefinition Id="4d6f934e-dcee-4c69-94e6-bde77ad5dd12" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="ebbd5a8e-01f4-4cd1-ac62-67cfc6fdb7c6" name="Profesores" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="3b81ae66-c7b0-4eaf-80ff-88be9a9e1a2a" />
+        <generalsInternal>
+          <generalization Id="47040de3-8ce5-4507-878a-e1852c263e9b" isSubstitutable="false">
+            <classMoniker Id="a74b0391-966e-40a9-bf4f-3d78622cb8ae" LastKnownName="Instituto Aplapac" />
+            <elementDefinition Id="e977112d-f41a-476d-a99b-ab01c60f65f5" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="c79d6047-1e40-4aeb-a19e-a8c136e18d0e" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+  </packagedElements>
+  <package Id="f2aa981b-77e4-4cbf-9c23-1a966180a913" name="DiagramaCasodeUso">
+    <elementDefinition Id="1087f977-b8c8-4c9a-8799-24c5c1d27d81" />
+  </package>
+</logicalClassDesignerModel>

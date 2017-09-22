@@ -1,0 +1,6 @@
+C:\ALUMNO\Documents\Nueva carpeta\PrimeraEvaluacion\PrimeraEvaluacion\bin\Debug\PrimeraEvaluacion.exe.config
+C:\ALUMNO\Documents\Nueva carpeta\PrimeraEvaluacion\PrimeraEvaluacion\bin\Debug\PrimeraEvaluacion.exe
+C:\ALUMNO\Documents\Nueva carpeta\PrimeraEvaluacion\PrimeraEvaluacion\bin\Debug\PrimeraEvaluacion.pdb
+C:\ALUMNO\Documents\Nueva carpeta\PrimeraEvaluacion\PrimeraEvaluacion\obj\Debug\PrimeraEvaluacion.csprojResolveAssemblyReference.cache
+C:\ALUMNO\Documents\Nueva carpeta\PrimeraEvaluacion\PrimeraEvaluacion\obj\Debug\PrimeraEvaluacion.exe
+C:\ALUMNO\Documents\Nueva carpeta\PrimeraEvaluacion\PrimeraEvaluacion\obj\Debug\PrimeraEvaluacion.pdb

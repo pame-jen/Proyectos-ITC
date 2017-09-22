@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="3493a400-6cce-4bb6-a9be-49059f648d1d" name="UMLUseCaseDiagram1" linkedPackageId="fd29f06a-d292-4aa5-b2d1-13d37c0dcf7f" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <profileInstances>
+    <packageHasProfileInstances Id="4e767181-59aa-45ad-b80c-ef7567ac4a87">
+      <profileInstance Id="fa93c09e-508e-4cfc-aa75-830fcfb8f283" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="2ed4e922-9658-424a-8bb9-357f9297103c">
+      <profileInstance Id="9fee6c8e-5943-44ff-bc9e-6d0f1496bb80" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="1d66e254-5835-409f-9bbe-e03ef75e0876" name="Alumno" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="9351a745-532a-47ff-8a3b-96f060870c4e" />
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="ac4356ed-e2dd-41dc-b084-b6ab41ddebac" name="Profesor" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="260c87ab-c042-4811-95c9-286d44db60a2" />
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="492f367d-1224-4889-9b3e-479644585f01" name="UseCase1" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="cbafdee1-d5f1-4221-ba68-df5296370e54" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="fd29f06a-d292-4aa5-b2d1-13d37c0dcf7f" name="DiagramaCasodeUso">
+    <elementDefinition Id="1087f977-b8c8-4c9a-8799-24c5c1d27d81" />
+  </package>
+</useCaseModelRoot>

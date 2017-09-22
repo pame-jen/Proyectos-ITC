@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\ExpHerencia\ExpHerencia\bin\Debug\ExpHerencia.exe.config
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\ExpHerencia\ExpHerencia\bin\Debug\ExpHerencia.exe
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\ExpHerencia\ExpHerencia\bin\Debug\ExpHerencia.pdb
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\ExpHerencia\ExpHerencia\obj\Debug\ExpHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\ExpHerencia\ExpHerencia\obj\Debug\ExpHerencia.exe
+C:\Users\Rodrigo\OneDrive\Documentos\ITC\2017\2do Semestre\TBDOO\Experiencias\ExpHerencia\ExpHerencia\obj\Debug\ExpHerencia.pdb
+C:\ALUMNO\Desktop\ExpHerencia\ExpHerencia\bin\Debug\ExpHerencia.exe.config
+C:\ALUMNO\Desktop\ExpHerencia\ExpHerencia\obj\Debug\ExpHerencia.exe
+C:\ALUMNO\Desktop\ExpHerencia\ExpHerencia\obj\Debug\ExpHerencia.pdb
+C:\ALUMNO\Desktop\ExpHerencia\ExpHerencia\bin\Debug\ExpHerencia.exe
+C:\ALUMNO\Desktop\ExpHerencia\ExpHerencia\bin\Debug\ExpHerencia.pdb
+C:\ALUMNO\Desktop\ExpHerencia\ExpHerencia\obj\Debug\ExpHerencia.csprojResolveAssemblyReference.cache
