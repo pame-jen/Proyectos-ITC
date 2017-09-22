@@ -1,2 +1,5 @@
 # Proyectos-ITC
-Experimentos de bootstrap y php.
+
+Módulo de Programación Web II (Profe Ariel Kergall)
+
+Utilización de PHP - Ajax - Controladores y Vistas
